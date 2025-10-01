@@ -6,7 +6,7 @@ File Explanation:
   * 其他 sheet (SKU_Image, SKU_Icon) = SKU 與圖片 URL 的對應表。
 
 
-2.MLP_trial.ipyn: 
+2.MLP_trial.ipynb: 
 - 包含 preprocess → augmentation → train → render 的完整 pipeline。
 - 使用 MLP (Multi-Layer Perceptron) 預測 offsets (dx, dy, dlogw, dlogh)，以調整 baseline boxes → 最終渲染成促銷海報。
 
