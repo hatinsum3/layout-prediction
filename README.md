@@ -2,8 +2,8 @@ File Explanation:
 
 1.Board Click SKU.xlsx: 
 - Excel input file
-  * 第一個 sheet (User_Input) = 使用者輸入的產品資料（品牌、產品名稱、價格、FAB 描述、icon、圖片 SKU 等）。
-  * 其他 sheet (SKU_Image, SKU_Icon) = SKU 與圖片 URL 的對應表。
+- 第一個 sheet (User_Input) = 使用者輸入的產品資料（品牌、產品名稱、價格、FAB 描述、icon、圖片 SKU 等）。
+- 其他 sheet (SKU_Image, SKU_Icon) = SKU 與圖片 URL 的對應表。
 
 
 2.MLP_trial.ipynb: 
