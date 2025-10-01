@@ -1,0 +1,16 @@
+{
+    "template_id": "sasa_pink_1280",
+    "canvas": { "width": 1280, "height": 1280 },
+    "boxes": {
+      "Sales Period Position":   { "x": 301, "y": 187, "w": 222, "h": 33 },
+      "Brand Position":          { "x": 137, "y": 457, "w": 437, "h": 77 },
+      "Product Position":        { "x": 135, "y": 551, "w": 458, "h": 59 },
+      "FAB Position":            { "x": 137, "y": 653, "w": 573, "h": 204 },
+      "Product Image Position":  { "x": 766, "y": 477, "w": 354, "h": 601 },
+      "VIP Price Position":      { "x": 139, "y": 891, "w": 254, "h": 107 },
+      "Non VIP Price Position":  { "x": 138, "y": 1015, "w": 448, "h": 56 },
+      "Original Price Position": { "x": 138, "y": 1088, "w": 313, "h": 50 },
+      "Icon Position":           { "x": 1020, "y": 195, "w": 220, "h": 98 }
+    }
+  }
+  
