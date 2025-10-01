@@ -5,9 +5,11 @@ File Explanation:
   * 第一個 sheet (User_Input) = 使用者輸入的產品資料（品牌、產品名稱、價格、FAB 描述、icon、圖片 SKU 等）。
   * 其他 sheet (SKU_Image, SKU_Icon) = SKU 與圖片 URL 的對應表。
 
+
 2. MLP_trial.ipyn: 
 - 包含 preprocess → augmentation → train → render 的完整 pipeline。
 - 使用 MLP (Multi-Layer Perceptron) 預測 offsets (dx, dy, dlogw, dlogh)，以調整 baseline boxes → 最終渲染成促銷海報。
+
 
 3. sasa_pink_1280.png:
 - Template 1 海報底圖。
